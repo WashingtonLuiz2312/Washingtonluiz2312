@@ -24,7 +24,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![JavaScript](https://www.svgrepo.com/show/349419/javascript.svg)
 ![Gspread](https://img.shields.io/badge/-Gspread-333333?style=flat&logo=google-sheets)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat)
 ![PyQt](https://img.shields.io/badge/-PyQt-333333?style=flat)
