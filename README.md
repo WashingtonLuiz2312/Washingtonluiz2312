@@ -23,20 +23,17 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 ### 🚀 Tecnologias & Ferramentas
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Gspread" title="Gspread" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/module.png" alt="Tkinter" title="Tkinter" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" title="PyQt" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="50"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" title="Javascript" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="50"/>
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="Openai" title="Openai" width="50"/>
 </p>
 
 ---
 
 ### 📌 Projetos em destaque (em breve)
 
-🔧 Estou trabalhando em projetos de automação, bots comerciais e integração com interfaces web e desktop.
+🔧 Especialista em automação e bots comerciais baseados em Inteligência Artificial, integrando plataformas web e desktop para oferecer soluções inteligentes que potencializam resultados.
 
 ---
 
@@ -51,9 +48,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ### 🌍 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seunumeroaqui)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/washington-luiz-b15b96236)
 
 ---
 
