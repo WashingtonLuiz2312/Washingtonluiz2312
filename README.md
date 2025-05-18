@@ -29,9 +29,9 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 ### 🚀 Tecnologias & Ferramentas
 
 <p>
-  <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" title="Python" width="50" style="margin-right: 20px;"/>
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" title="Javascript" width="50" style="margin-right: 20px;"/>
-  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" title="Git" width="50" style="margin-right: 20px;"/>
+  <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" title="Python" width="50" style="margin-right: 50px;"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" title="Javascript" width="50" style="margin-right: 50px;"/>
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" title="Git" width="50" style="margin-right: 50px;"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" title="Sql" width="50"/>
 </p>
 
