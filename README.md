@@ -23,9 +23,9 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 ### 🚀 Tecnologias & Ferramentas
 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Gspread](https://img.shields.io/badge/-Gspread-333333?style=flat&logo=google-sheets)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat)
 ![PyQt](https://img.shields.io/badge/-PyQt-333333?style=flat)
