@@ -22,12 +22,15 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ### 🚀 Tecnologias & Ferramentas
 
-![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![JavaScript](https://www.svgrepo.com/show/349419/javascript.svg)
-![Gspread](https://img.shields.io/badge/-Gspread-333333?style=flat&logo=google-sheets)
-![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat)
-![PyQt](https://img.shields.io/badge/-PyQt-333333?style=flat)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Gspread" title="Gspread" width="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/module.png" alt="Tkinter" title="Tkinter" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" title="PyQt" width="30"/>
+</p>
 
 ---
 
