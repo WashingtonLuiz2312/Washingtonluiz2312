@@ -23,7 +23,6 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 ### 🚀 Tecnologias & Ferramentas
 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Gspread](https://img.shields.io/badge/-Gspread-333333?style=flat&logo=google-sheets)
