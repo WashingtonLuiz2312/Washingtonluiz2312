@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, automação e soluções inteligentes. Tenho expe
 
 - Experiência com Selenium, PyAutoGUI e gspread para automação avançada, manipulação e análise de dados.
 
-- Desenvolvimento de integrações robustas com APIs populares, incluindo Telegram, WhatsApp, Nuvemshop e outras plataformas.
+- Desenvolvimento de integrações robustas com APIs populares, incluindo OpenAI, Grok 3.0, Gemini e outras plataformas de inteligência artificial generativa.
 
 - Criação de interfaces gráficas intuitivas utilizando Tkinter e PyQt para aplicações desktop.
 
