@@ -25,7 +25,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 <p>
   <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" title="Python" width="50"/>
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" title="Javascript" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="50"/>
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" title="Git" width="50"/>
   <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="Openai" title="Openai" width="50"/>
 </p>
 
