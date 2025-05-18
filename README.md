@@ -22,7 +22,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ### 🚀 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
