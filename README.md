@@ -33,7 +33,6 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" title="Javascript" width="50"/>
   <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" title="Git" width="50"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" title="Sql" width="50"/>
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySql" title="MySql" width="50"/>
 </p>
 
 ---
