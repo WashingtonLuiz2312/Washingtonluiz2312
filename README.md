@@ -10,11 +10,17 @@
 
 Sou apaixonado por tecnologia, automação e soluções inteligentes. Tenho experiência com:
 
-- Python (automação, web scraping, bots)
-- Selenium, PyAutoGUI, gspread
-- Integrações com APIs (Telegram, WhatsApp, Nuvemshop, etc.)
-- Interface gráfica com Tkinter e PyQt
-- Projetos com foco em produtividade e soluções para empresas
+- Python para automação, web scraping, desenvolvimento de bots e soluções inteligentes baseadas em Inteligência Artificial.
+
+- Experiência com Selenium, PyAutoGUI e gspread para automação avançada, manipulação e análise de dados.
+
+- Desenvolvimento de integrações robustas com APIs populares, incluindo Telegram, WhatsApp, Nuvemshop e outras plataformas.
+
+- Criação de interfaces gráficas intuitivas utilizando Tkinter e PyQt para aplicações desktop.
+
+- Conhecimentos em bancos de dados relacionais e não relacionais para armazenamento e gerenciamento eficiente de dados.
+
+- Aplicação de conceitos de Inteligência Artificial e Machine Learning em projetos focados na otimização de processos e aumento da produtividade empresarial
 
 Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no dia a dia das pessoas e negócios.
 
@@ -27,6 +33,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" title="Javascript" width="50"/>
   <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" title="Git" width="50"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" title="Sql" width="50"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySql" title="MySql" width="50"/>
 </p>
 
 ---
