@@ -29,21 +29,21 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 ### 💻 Linguagens
 
 <p>
-  <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" width="50" style="margin-right: 10px;"/>
+  <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" width="50" style="margin-right: 16px;"/>
 </p>
 
 ---
 
 ### ⚙️ Ferramentas & Bibliotecas
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="50" style="margin-right: 10px;"/>
-</div>
+<p>
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="50" style="margin-right: 16px;"/>
+</p>
 
 ---
 
