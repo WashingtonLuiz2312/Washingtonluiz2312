@@ -34,6 +34,8 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
   <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" width="50"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" width="50"/>
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50"/>
+  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="50"/>
+  <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="50"/>
 </div>
 
 
