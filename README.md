@@ -65,15 +65,6 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WashingtonLuiz2312&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonLuiz2312&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌍 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/washington-luiz-b15b96236)
