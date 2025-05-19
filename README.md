@@ -28,10 +28,10 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ### 💻 Linguagens
 
-<div style="display: flex; gap: 20px;">
+<p>
   <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 10px;"/>
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" width="50" style="margin-right: 10px;"/>
-</div>
+</p>
 
 ---
 
