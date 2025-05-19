@@ -47,7 +47,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ---
 
-### 📌 Projetos em destaque (em breve)
+### 🚀 Projetos e Aplicações com IA
 
 🔧 Especialista em automação e bots comerciais baseados em Inteligência Artificial, integrando plataformas web e desktop para oferecer soluções inteligentes que potencializam resultados.
 
@@ -68,4 +68,4 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ---
 
-⭐ **Se você gostou do meu trabalho, deixe uma estrela nos repositórios!**
+🔎 Estou sempre em busca de desafios que unam tecnologia, automação e inteligência artificial para gerar soluções de alto impacto.
