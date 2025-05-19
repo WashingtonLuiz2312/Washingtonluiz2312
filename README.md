@@ -56,6 +56,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="gcp" width="50 style="margin-right: 16px;"/>
 </p>
 
 ---
