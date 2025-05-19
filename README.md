@@ -50,6 +50,7 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 ### ⚙️ Ferramentas & Bibliotecas
 
 <p>
+  <img src="https://www.vecteezy.com/png/22227364-openai-chatgpt-logo-icon" alt="OpenAI" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50" style="margin-right: 16px;"/>
