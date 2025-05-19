@@ -26,11 +26,23 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 ---
 
+### 🎓 Formação Acadêmica
+
+- 🎓 Superior em Análise e Desenvolvimento de Sistemas – Unime, [Em andamento, 2026]
+
+---
+
+### 📚 Certificações e Cursos Relevantes
+
+- *Introduction to Artificial Intelligence with Python* - **Harvard University (edX)**
+- *Foundations of Cybersecurity* - **Google (Coursera)**
+
 ### 💻 Linguagens
 
 <p>
   <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="50" style="margin-right: 16px;/>
 </p>
 
 ---
