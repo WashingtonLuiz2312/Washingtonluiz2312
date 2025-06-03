@@ -41,8 +41,9 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 <p>
   <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/349418/java.svg" alt="Java" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css" width="50" style="margin-right: 16px;"/>
 </p>
 
 ---
