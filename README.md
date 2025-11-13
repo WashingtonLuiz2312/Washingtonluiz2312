@@ -41,7 +41,6 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
 
 <p>
   <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 16px;"/>
-  <img src="https://cdn.brandfetch.io/idO6_6uqJ9/idWtnk-fDo.svg?c=1bxid64Mup7aczewSAYMX&t=1655217297979" alt="css" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css" width="50" style="margin-right: 16px;"/>
@@ -61,6 +60,9 @@ Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no
   <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="50" style="margin-right: 16px;"/>
   <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="gcp" width="50 style="margin-right: 16px;"/>
+  <img src="https://cdn.brandfetch.io/idO6_6uqJ9/idWtnk-fDo.svg?c=1bxid64Mup7aczewSAYMX&t=1655217297979" alt="css" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="css" width="50" style="margin-right": 16px;"/>
+
 </p>
 
 ---
