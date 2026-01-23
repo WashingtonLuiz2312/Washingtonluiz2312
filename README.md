@@ -1,81 +1,134 @@
-<h1 align="center">Olá! 👋 Eu sou o Washington Luiz</h1>
+<h1 align="center">Washington Luiz</h1>
+
+<h3 align="center">
+Full Stack Developer • Automação & Dados • IA Aplicada
+</h3>
 
 <p align="center">
-  💻 Desenvolvedor Python | 🤖 Automação de Processos | 🧠 Inteligência Artificial | 🛠️ Bots Inteligentes
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Desenvolvimento+orientado+a+neg%C3%B3cio;Automacao+inteligente+e+integra%C3%A7%C3%B5es;Dados+como+base+para+decis%C3%A3o;Solu%C3%A7%C3%B5es+reais+em+ambiente+corporativo" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/washington-luiz-amorim">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/WashingtonLuiz2312">
+    <img src="https://img.shields.io/badge/GitHub-Portf%C3%B3lio-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🧠 Visão Profissional
 
-Sou apaixonado por tecnologia, automação e soluções inteligentes. Tenho experiência com:
+Sou **Desenvolvedor Full Stack** com forte atuação em **automação de processos, integração de sistemas, análise de dados e desenvolvimento de apps/web**.
 
-- Python para automação, web scraping, desenvolvimento de bots e soluções inteligentes baseadas em Inteligência Artificial.
+Atuo no desenvolvimento de **soluções corporativas reais**, conectando **frontend, backend, bancos de dados, automações e APIs**, sempre com foco em **performance, escalabilidade, confiabilidade e impacto operacional**.
 
-- Experiência com Selenium, PyAutoGUI e gspread para automação avançada, manipulação e análise de dados.
-
-- Desenvolvimento de integrações robustas com APIs populares, incluindo OpenAI, Grok 3.0, Gemini e outras plataformas de inteligência artificial generativa.
-
-- Criação de interfaces gráficas intuitivas utilizando Tkinter e PyQt para aplicações desktop.
-
-- Conhecimentos em bancos de dados relacionais e não relacionais para armazenamento e gerenciamento eficiente de dados.
-
-- Aplicação de conceitos de Inteligência Artificial e Machine Learning em projetos focados na otimização de processos e aumento da produtividade empresarial
-
-Estou sempre buscando aprender e desenvolver projetos que tenham impacto real no dia a dia das pessoas e negócios.
+Tenho experiência prática em ambientes industriais e corporativos, trabalhando com **dados críticos, KPIs, sistemas integrados e automações que reduzem tempo, erro humano e custos operacionais**.
 
 ---
 
-### 🎓 Formação Acadêmica
+## 🏗️ Áreas de Atuação
 
-- 🎓 Superior em Análise e Desenvolvimento de Sistemas – Unime, [Em andamento, 2026]
+✔️ Desenvolvimento Full Stack  
+✔️ Automação de Processos  
+✔️ Manipulação de Banco de Dados (SQL)    
+✔️ Integração com APIs REST  
+✔️ IA aplicada à automação e produtividade  
 
 ---
 
-### 📚 Certificações e Cursos Relevantes
+## ⚙️ Stack Tecnológica
 
-- *Introduction to Artificial Intelligence with Python* - **Harvard University (edX)**
-- *Foundations of Cybersecurity* - **Google (Coursera)**
-
-### 💻 Linguagens
-
+### 💻 Linguagens & Frameworks
 <p>
-  <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="css" width="50" style="margin-right: 16px;"/>
+  <img src="https://www.svgrepo.com/show/354238/python.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/349330/css3.svg" width="45"/>
 </p>
 
 ---
 
-### ⚙️ Ferramentas & Bibliotecas
-
+### 🧰 Backend, Dados & DevOps
 <p>
-  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Sql" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="gcp" width="50 style="margin-right: 16px;"/>
-  <img src="https://cdn.brandfetch.io/idO6_6uqJ9/idWtnk-fDo.svg?c=1bxid64Mup7aczewSAYMX&t=1655217297979" alt="css" width="50" style="margin-right: 16px;"/>
-  <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="css" width="50" style="margin-right": 16px;"/>
-
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/448223/gcp.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/354440/docker.svg" width="45"/>
 </p>
 
 ---
 
-### 🚀 Projetos e Aplicações com IA
-
-🔧 Especialista em automação e bots comerciais baseados em Inteligência Artificial, integrando plataformas web e desktop para oferecer soluções inteligentes que potencializam resultados.
-
----
-
-### 🌍 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/washington-luiz-b15b96236)
+### 🤖 Automação, IA & Integrações
+- Python para automação e processamento de dados  
+- JavaScript / Node.js para integrações  
+- n8n para automações e orquestração de fluxos  
+- Integração com APIs REST  
+- IA aplicada a automação e suporte à decisão  
 
 ---
 
-🔎 Estou sempre em busca de desafios que unam tecnologia, automação e inteligência artificial para gerar soluções de alto impacto.
+## 🧪 Experiência Profissional
+
+### 🏭 **Altus Equipamentos**  
+**Estagiário de Dados e Desenvolvimento de Sistemas**  
+📅 Jul/2025 – Atual  
+
+- Desenvolvimento e manutenção de aplicações **React.js + TypeScript**
+- Consumo e integração com **APIs REST**
+- Implementação e gestão de **PostgreSQL / Supabase**
+- Criação de **automações e integrações** com Python, JavaScript e n8n
+- Desenvolvimento de **dashboards e KPIs** para apoio à decisão
+- Atuação colaborativa com áreas estratégicas do negócio
+
+---
+
+### 🧴 **Grupo Boticário**  
+**Jovem Aprendiz – Tecnologia & Dados**  
+📅 Dez/2022 – Dez/2024  
+
+- Cadastro técnico e padronização de materiais no **SAP MM**
+- Atualização e gestão de bases de dados operacionais
+- Criação de **dashboards no Looker Studio**
+- Desenvolvimento de **automações em Python** para PCM
+- Suporte ao time de TI e operações industriais
+
+---
+
+## 🎓 Formação Acadêmica
+
+🎓 **Análise e Desenvolvimento de Sistemas**  
+UNIME Anhanguera — *Em andamento*
+
+🎓 **Técnico em Mecatrônica**  
+CETEP RMS — *Concluído*
+
+---
+
+## 📜 Certificações
+
+- Introduction to Artificial Intelligence with Python — **Harvard**
+- Cybersecurity — **Google**
+- Python Avançado — **Hashtag**
+- Java Development — **FIAP**
+- Lean Six Sigma (White & Yellow Belt)
+- Inteligência Artificial e Computacional — **FIAP**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WashingtonLuiz2312&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonLuiz2312&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+📩 **Vamos conversar.**
