@@ -1,12 +1,9 @@
-<h1 align="center">Washington Luiz</h1>
+<h1 align="center">Washington Luiz Pedra Amorim</h1>
 
 <h3 align="center">
 Full Stack Developer • Automação & Dados • IA Aplicada
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Desenvolvimento+orientado+a+neg%C3%B3cio;Automacao+inteligente+e+integra%C3%A7%C3%B5es;Dados+como+base+para+decis%C3%A3o;Solu%C3%A7%C3%B5es+reais+em+ambiente+corporativo" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/washington-luiz-amorim">
