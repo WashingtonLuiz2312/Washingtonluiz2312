@@ -57,7 +57,17 @@ Tenho experiência prática em ambientes industriais e corporativos, trabalhando
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="45"/>
   <img src="https://www.svgrepo.com/show/353782/git-icon.svg" width="45"/>
   <img src="https://www.svgrepo.com/show/448223/gcp.svg" width="45"/>
-  <img src="https://www.svgrepo.com/show/354440/docker.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/373595/firebase.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="45"/>
+</p>
+
+---
+
+### 🖥️ Sistemas Operacionais
+<p>
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/353640/debian.svg" width="45"/>
+  <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" width="45"/>
 </p>
 
 ---
