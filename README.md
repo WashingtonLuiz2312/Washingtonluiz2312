@@ -1,11 +1,5 @@
 <div align="center">
 
-<a href="https://ibb.co/231MqqNW"><img src="https://i.ibb.co/qY3gBB57/transferir.png" alt="Washington Luiz" style="border-radius:50%;border:3px solid #a78bfa;margin-top:-60px"/></a>
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%9A%80;Automatizando+o+que+%C3%A9+repetitivo+para+criar+o+que+%C3%A9+inova%C3%A7%C3%A3o+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
